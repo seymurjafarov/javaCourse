@@ -4,6 +4,7 @@ public class Variables {
 
         System.out.println(myInt);
         long myLong = 613459l;
+        System.out.println(myLong);
         double myDouble = 2.81;
         float myFloat = 45.912F;
         char myChar = '5';
