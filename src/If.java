@@ -1,4 +1,4 @@
-public class IfOperator {
+public class If {
     public static void main(String[] args) {
         int value = 14;
 
